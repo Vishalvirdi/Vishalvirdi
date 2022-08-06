@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishalvirdi
-- 🌱 I’m currently doing Flutter Development.
+- 🌱 I’m Flutter Developer.
 
 
 <!---
