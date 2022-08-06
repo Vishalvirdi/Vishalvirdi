@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Vishalvirdi
-- 👀 I’m interested in Development.
 - 🌱 I’m currently doing Flutter Development.
 
 
