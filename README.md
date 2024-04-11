@@ -2,16 +2,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishal Virdi</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate FrontEnd Developer from India</h3>
 <img align="right" alt="Coding" width=400 src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif" >
 
-- 🔭 I’m currently working on **E-commerce Project**
+- 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Node.js,Express.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishalvirdi/Vishalvirdi](https://github.com/Vishalvirdi/Vishalvirdi)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, ReactJs, Next.js, Node.js**
 
 - 📫 How to reach me **vishalvirdi039@gmail.com**
 
